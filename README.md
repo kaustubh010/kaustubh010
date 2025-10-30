@@ -1,12 +1,66 @@
-# 💫 About Me:
-🔭 I’m currently working on: Building and refining my portfolio to showcase my web development projects.<br>👯 I’m looking to collaborate on: Innovative web applications or interesting projects where I can apply my skills in React, Next.js, and Tailwind CSS.<br>🤝 I’m looking for help with: Feedback on my portfolio and advice on advanced web app features or optimizations.<br>🌱 I’m currently learning: Advanced techniques in web development, including optimizing performance and exploring new technologies.<br>💬 Ask me about: My experience building e-commerce stores, chat apps, web games, and other projects using React, Next.js, and MongoDB.<br>⚡ Fun fact: I’ve developed a variety of web applications, including a chat app and web games, all with a focus on creating engaging and functional user experiences!
+# 👋 Hi, I'm Kaustubh
 
+I'm a **Full Stack Developer** passionate about building scalable, visually appealing, and user-focused web applications.  
+Currently refining my **portfolio** and exploring advanced web technologies to create seamless digital experiences.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KaustubhBharadwajj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaustubh._.bharadwaj) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kaustubh_Bhara) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+## 💫 About Me
 
+- 🔭 **Currently working on:** Building and improving my personal portfolio.  
+- 👯 **Open to collaborate on:** Innovative web apps or creative projects using **React**, **Next.js**, and **Tailwind CSS**.  
+- 🤝 **Looking for help with:** Feedback on UI/UX, performance optimization, and advanced app architecture.  
+- 🌱 **Learning:** Modern frameworks, backend optimization, and full-stack scalability patterns.  
+- 💬 **Ask me about:** Building **e-commerce platforms**, **real-time chat apps**, and **web games**.  
+- ⚡ **Fun fact:** I’ve built everything from chat systems to artistic social platforms with a focus on engagement and clean design.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://kaaustubh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustubh-bharadwaj)
+[![X](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/Kaustubh_Bhara)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaustubh._.bharadwaj)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KaustubhBharadwajj)
+
+---
+
+## 💻 Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-072D87?style=for-the-badge&logo=razorpay&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%231572B6.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [**Kala Hive**](https://kalahive.vercel.app) | An art platform connecting creators and collectors, featuring role-based profiles, artwork management, and secure authentication. | Next.js, Lucia Auth, Prisma ORM, Postgres, Cloudinary |
+| [**Chatter**](https://github.com/kaustubh010/Chatter) | A real-time chat app built with React Native and Express + Socket.IO for instant messaging and live presence. | React Native, Express.js, Socket.IO, MongoDB |
+| [**Vedsatwa Traders**](https://traders.vedsatwa.com) | A full-stack Ayurveda e-commerce site with admin dashboard and Razorpay payments. | Next.js, Prisma, PostgreSQL, Razorpay API |
+| [**Boom Camp & Resorts**](https://boom-resort.vercel.app) | Elegant resort website with smooth animations and a nature-inspired UI. | Next.js, Tailwind CSS, Framer Motion |
+| [**Portfolio Website**](https://kaaustubh.vercel.app) | My personal portfolio showcasing my work, experience, and projects. | Next.js, Tailwind CSS, Framer Motion |
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=kaustubh010&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kaustubh010&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh010&theme=tokyonight&hide_border=false&layout=compact)
+
+---
