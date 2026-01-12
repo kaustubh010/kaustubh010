@@ -56,11 +56,3 @@ Currently refining my **portfolio** and exploring advanced web technologies to c
 | [**Portfolio Website**](https://kaaustubh.vercel.app) | My personal portfolio showcasing my work, experience, and projects. | Next.js, Tailwind CSS, Framer Motion |
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=kaustubh010&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaustubh010&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaustubh010&theme=tokyonight&hide_border=false&layout=compact)
-
----
