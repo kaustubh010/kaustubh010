@@ -5,17 +5,6 @@ Currently refining my **portfolio** and exploring advanced web technologies to c
 
 ---
 
-## 💫 About Me
-
-- 🔭 **Currently working on:** Building and improving my personal portfolio.  
-- 👯 **Open to collaborate on:** Innovative web apps or creative projects using **React**, **Next.js**, and **Tailwind CSS**.  
-- 🤝 **Looking for help with:** Feedback on UI/UX, performance optimization, and advanced app architecture.  
-- 🌱 **Learning:** Modern frameworks, backend optimization, and full-stack scalability patterns.  
-- 💬 **Ask me about:** Building **e-commerce platforms**, **real-time chat apps**, and **web games**.  
-- ⚡ **Fun fact:** I’ve built everything from chat systems to artistic social platforms with a focus on engagement and clean design.
-
----
-
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://kaaustubh.vercel.app)
