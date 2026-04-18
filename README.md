@@ -31,15 +31,3 @@ Currently refining my **portfolio** and exploring advanced web technologies to c
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [**Kala Hive**](https://kalahive.vercel.app) | An art platform connecting creators and collectors, featuring role-based profiles, artwork management, and secure authentication. | Next.js, Lucia Auth, Prisma ORM, Postgres, Cloudinary |
-| [**Chatter**](https://github.com/kaustubh010/Chatter) | A real-time chat app built with React Native and Express + Socket.IO for instant messaging and live presence. | React Native, Express.js, Socket.IO, MongoDB |
-| [**Vedsatwa Traders**](https://vedsatwa-traders.vercel.app) | A full-stack Ayurveda e-commerce site with admin dashboard and Razorpay payments. | Next.js, Prisma, PostgreSQL, Razorpay API |
-| [**Boom Camp & Resorts**](https://boom-resort.vercel.app) | Elegant resort website with smooth animations and a nature-inspired UI. | Next.js, Tailwind CSS, Framer Motion |
-| [**Portfolio Website**](https://kaaustubh.vercel.app) | My personal portfolio showcasing my work, experience, and projects. | Next.js, Tailwind CSS, Framer Motion |
-
----
