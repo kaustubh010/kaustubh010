@@ -30,4 +30,3 @@ Currently refining my **portfolio** and exploring advanced web technologies to c
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%231572B6.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
